@@ -1,0 +1,1 @@
+ma.projet.util.HibernateUtil
