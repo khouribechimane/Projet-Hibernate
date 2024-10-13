@@ -5,7 +5,7 @@ Cet exercice consiste à développer une application de gestion des produits en 
 L'objectif est de comprendre comment configurer et utiliser Hibernate pour interagir avec une base de données **MySQL** et gérer des entités en Java.
 
 
-![image](https://github.com/user-attachments/assets/dc9059b6-bcd8-470d-8ef5-18b5dd88978b)
+            ![image](https://github.com/user-attachments/assets/dc9059b6-bcd8-470d-8ef5-18b5dd88978b)
 
 
 # Exercice 2 - Gestion de Stock d'un Magasin
